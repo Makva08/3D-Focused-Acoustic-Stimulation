@@ -7,7 +7,9 @@ Ultimately, the research seeks to provide insights into the biophysical mechanis
 
 
 Stack consists of:
+
 Silicon Wafer Substrate (500um);
+
 Lithium Niobate (50um): The primary piezoelectric material, selected for its high optical transparency (>80%), strong piezoelectric electromechanical coupling (kt ~47%), and high acoustic wave velocity (~7340 m/s).
 LN is bonded to a 500 µm thick silicon (Si) wafer substrate through ion-slicing technology.
 LN substrate was wet-etched (TMAH) to achieve 50um thick membrane.
